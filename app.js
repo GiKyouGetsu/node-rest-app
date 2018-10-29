@@ -19,6 +19,7 @@ mongoose.connect(DB_URL
         reconnectTries: 30
     }
 )
+mongoose.promise = global.promise;
 
 var db = mongoose.connection;
 
