@@ -31,7 +31,7 @@ db.once('open', function(){
 db.on('disconnected', () => console.log('Mongoose connection disconnected URL: ' + DB_URL))
 
 app.use(morgan('dev'));
-
+app.use('/uploads',express.static('uploads'));
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 

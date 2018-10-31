@@ -1,0 +1,1358 @@
+2017-04-11 16:02:56 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-11 16:03:16 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-11 16:03:32 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-11 16:04:25 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-11 16:22:36 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-11 16:22:45 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-11 17:09:09 ERROR  : Error connecting to the server: fe_sendauth: no password supplied
+
+2017-04-12 10:27:26 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-12 10:27:55 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-12 13:21:28 ERROR  : Error connecting to the server: could not translate host name "localhost:5432/breezecallerdb" to address: Unknown host
+
+2017-04-12 13:21:43 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-13 09:33:03 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-13 09:34:21 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-13 09:34:39 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-13 09:34:46 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-13 09:34:57 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-13 09:51:05 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-13 09:55:25 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-04-13 09:58:42 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "admin"
+
+2017-04-13 09:58:53 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "admin"
+
+2017-04-13 09:59:20 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres01"
+
+2017-04-13 09:59:33 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres01"
+
+2017-04-13 09:59:57 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-13 10:00:07 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-13 10:04:45 ERROR  : ERROR:  relation "login_user_info" does not exist
+LINE 1: select * from login_user_info
+                      ^
+2017-04-13 10:06:05 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-13 13:39:33 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-13 13:39:56 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-13 16:08:51 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-13 16:09:02 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-13 16:09:29 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-13 16:09:59 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-13 16:11:21 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-14 09:12:09 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-14 09:50:05 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-14 09:52:16 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-14 13:44:40 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-14 14:11:49 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(3) already exists.
+2017-04-14 14:11:50 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(4) already exists.
+2017-04-14 14:12:00 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(5) already exists.
+2017-04-14 14:12:00 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(6) already exists.
+2017-04-14 14:12:14 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(7) already exists.
+2017-04-14 14:12:17 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(8) already exists.
+2017-04-14 14:12:29 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(9) already exists.
+2017-04-14 14:12:32 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(10) already exists.
+2017-04-14 14:12:44 ERROR  : ERROR:  duplicate key value violates unique constraint "role_info_pkey"
+DETAIL:  Key (id)=(11) already exists.
+2017-04-14 14:13:52 ERROR  : ERROR:  null value in column "login_id" violates not-null constraint
+DETAIL:  Failing row contains (null, 6, null, null, 3, null).
+2017-04-14 14:13:53 ERROR  : ERROR:  null value in column "login_id" violates not-null constraint
+DETAIL:  Failing row contains (null, 6, null, null, , null).
+2017-04-14 14:14:30 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(6) already exists.
+2017-04-14 14:14:32 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(6) already exists.
+2017-04-14 14:14:36 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(6) already exists.
+2017-04-14 14:14:43 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(6) already exists.
+2017-04-14 14:14:52 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(6) already exists.
+2017-04-14 14:15:14 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(8) already exists.
+2017-04-14 14:15:15 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(8) already exists.
+2017-04-14 14:15:40 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(9) already exists.
+2017-04-14 14:15:42 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(9) already exists.
+2017-04-14 14:15:46 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(9) already exists.
+2017-04-14 14:15:49 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(9) already exists.
+2017-04-14 16:13:55 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-14 16:14:13 ERROR  : Failed to re-establish the connection to the server breezeccallerdb on postgres@135.122.6.193:5432
+2017-04-14 17:23:39 ERROR  : ERROR:  relation "clidinfo" does not exist
+LINE 1: insert into clidinfo (id, clid, is_used) 
+                    ^
+2017-04-14 17:24:22 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-17 09:21:00 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-17 10:00:52 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-17 10:16:38 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-17 10:57:31 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-17 11:21:58 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-17 14:46:38 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-17 14:58:05 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-18 11:15:42 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-18 11:16:43 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-18 13:24:52 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-18 14:10:16 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-18 15:38:24 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-19 13:22:21 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-19 13:23:24 ERROR  : ERROR:  null value in column "role_id" violates not-null constraint
+DETAIL:  Failing row contains (96, 16, null, null, null, null, null).
+2017-04-19 13:23:46 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(15) already exists.
+2017-04-19 13:23:49 ERROR  : ERROR:  duplicate key value violates unique constraint "login_user_info_pkey"
+DETAIL:  Key (id)=(15) already exists.
+2017-04-19 15:00:37 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-19 15:02:57 ERROR  : ERROR:  null value in column "role_id" violates not-null constraint
+DETAIL:  Failing row contains (96, 24, null, null, null, null, null).
+2017-04-19 15:17:09 ERROR  : ERROR:  duplicate key value violates unique constraint "group_info_pkey"
+DETAIL:  Key (id)=(1) already exists.
+2017-04-19 15:23:14 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-19 16:25:25 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-20 10:44:19 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-20 13:30:50 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-24 14:21:30 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-24 14:58:24 ERROR  : ERROR:  value too long for type character varying(20)
+2017-04-24 14:58:31 ERROR  : ERROR:  value too long for type character varying(20)
+2017-04-24 14:58:34 ERROR  : ERROR:  value too long for type character varying(20)
+2017-04-24 14:58:35 ERROR  : ERROR:  value too long for type character varying(20)
+2017-04-25 10:20:39 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-25 17:02:01 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-26 09:40:25 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-26 09:40:58 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-26 11:07:17 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-26 13:59:24 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-26 16:36:21 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-26 16:37:14 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-04-26 16:37:25 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-26 16:50:07 ERROR  : ERROR:  duplicate key value violates unique constraint "clid_info_pkey"
+DETAIL:  Key (id)=(40092) already exists.
+2017-04-26 16:50:11 ERROR  : ERROR:  duplicate key value violates unique constraint "clid_info_pkey"
+DETAIL:  Key (id)=(40092) already exists.
+2017-04-26 16:50:11 ERROR  : ERROR:  duplicate key value violates unique constraint "clid_info_pkey"
+DETAIL:  Key (id)=(40092) already exists.
+2017-04-26 16:50:12 ERROR  : ERROR:  duplicate key value violates unique constraint "clid_info_pkey"
+DETAIL:  Key (id)=(40092) already exists.
+2017-04-26 16:50:12 ERROR  : ERROR:  duplicate key value violates unique constraint "clid_info_pkey"
+DETAIL:  Key (id)=(40092) already exists.
+2017-04-26 16:50:14 ERROR  : ERROR:  duplicate key value violates unique constraint "clid_info_pkey"
+DETAIL:  Key (id)=(40092) already exists.
+2017-04-27 15:30:29 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-27 16:47:25 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-04-28 15:45:31 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-05-02 09:50:32 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-05-03 13:33:15 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2017-05-03 13:33:39 ERROR  : Failed to re-establish the connection to the server postgres on postgres@135.122.6.193:5432
+2017-05-08 13:55:12 ERROR  : ERROR:  syntax error at or near "  WITH"
+LINE 2:   WITH OWNER = postgres
+        ^
+2017-05-08 13:56:48 ERROR  : ERROR:  syntax error at or near "character"
+LINE 6:   "password" character varying(100),
+                     ^
+2017-05-08 13:57:12 ERROR  : ERROR:  syntax error at or near "("
+LINE 10:   CONSTRAINT login_user_info_pkey PRIMARY KEY (id)
+                                                       ^
+2017-05-08 13:57:44 ERROR  : ERROR:  syntax error at or near "character"
+LINE 6:   "password" character varying(100),
+                     ^
+2017-05-08 13:58:01 ERROR  : ERROR:  syntax error at or near "("
+LINE 10:   CONSTRAINT login_user_info_pkey PRIMARY KEY (id)
+                                                       ^
+2017-05-08 13:58:03 ERROR  : ERROR:  syntax error at or near "("
+LINE 10:   CONSTRAINT login_user_info_pkey PRIMARY KEY (id)
+                                                       ^
+2017-05-08 13:59:23 ERROR  : ERROR:  syntax error at or near "character"
+LINE 6:   "password" character varying(100),
+                     ^
+2017-05-08 13:59:34 ERROR  : ERROR:  syntax error at or near "WITH ("
+LINE 10: WITH (
+         ^
+2017-05-08 14:00:21 ERROR  : ERROR:  relation "login_user_info_  id_seq" does not exist
+LINE 2:   FROM "login_user_info_  id_seq"
+               ^
+2017-05-08 14:00:23 ERROR  : Column not found in pgSet: last_value
+2017-05-08 14:00:24 ERROR  : Column not found in pgSet: min_value
+2017-05-08 14:00:25 ERROR  : Column not found in pgSet: max_value
+2017-05-08 14:00:25 ERROR  : Column not found in pgSet: cache_value
+2017-05-08 14:00:25 ERROR  : Column not found in pgSet: increment_by
+2017-05-08 14:00:26 ERROR  : Column not found in pgSet: is_cycled
+2017-05-08 14:00:26 ERROR  : Column not found in pgSet: is_called
+2017-05-08 14:00:26 ERROR  : ERROR:  relation "login_user_info_  id_seq" does not exist
+LINE 2:   FROM "login_user_info_  id_seq"
+               ^
+2017-05-08 14:00:28 ERROR  : Column not found in pgSet: last_value
+2017-05-08 14:00:28 ERROR  : Column not found in pgSet: min_value
+2017-05-08 14:00:28 ERROR  : Column not found in pgSet: max_value
+2017-05-08 14:00:28 ERROR  : Column not found in pgSet: cache_value
+2017-05-08 14:00:29 ERROR  : Column not found in pgSet: increment_by
+2017-05-08 14:00:29 ERROR  : Column not found in pgSet: is_cycled
+2017-05-08 14:00:29 ERROR  : Column not found in pgSet: is_called
+2017-05-08 14:00:50 ERROR  : ERROR:  syntax error at or near "character"
+LINE 6:   login_name character varying(20),
+                     ^
+2017-05-08 14:02:46 ERROR  : ERROR:  syntax error at or near "("
+LINE 10:   CONSTRAINT login_user_info_pkey PRIMARY KEY (id)
+                                                       ^
+2017-05-08 14:03:12 ERROR  : ERROR:  syntax error at or near ")"
+LINE 11: )
+         ^
+2017-05-08 14:03:18 ERROR  : ERROR:  syntax error at or near ")"
+LINE 11: )
+         ^
+2017-05-08 14:03:23 ERROR  : ERROR:  syntax error at or near "ALTER"
+LINE 13: ALTER TABLE login_user_info OWNER TO postgres;
+         ^
+2017-05-08 14:11:11 ERROR  : ERROR:  syntax error at or near "("
+LINE 11:   CONSTRAINT clid_info_pkey PRIMARY KEY (id)
+                                                 ^
+2017-05-08 17:37:37 ERROR  : ERROR:  column "group_in" does not exist
+LINE 1: select * from Employee_info where group_in = 'G0001'
+                                          ^
+2017-05-08 17:38:22 ERROR  : ERROR:  duplicate key value violates unique constraint "employee_info_pkey"
+DETAIL:  Key (id)=(1) already exists.
+2017-05-08 17:38:53 ERROR  : ERROR:  duplicate key value violates unique constraint "manager_info_pkey"
+DETAIL:  Key (id)=(1) already exists.
+2017-05-09 14:05:56 ERROR  : ERROR:  relation "clid_info_pkey" already exists
+2017-05-09 14:07:12 ERROR  : ERROR:  value too long for type character varying(5)
+2017-05-09 14:07:12 ERROR  : ERROR:  value too long for type character varying(5)
+2017-05-09 14:08:13 ERROR  : ERROR:  value too long for type character varying(5)
+2017-05-09 14:08:13 ERROR  : ERROR:  value too long for type character varying(5)
+2017-05-11 17:19:29 ERROR  : ERROR:  column "group000" does not exist
+LINE 1: ...ger_id like '%%'               and m.group_id in (Group000) ...
+                                                             ^
+2017-05-11 17:25:16 ERROR  : ERROR:  column "group000" does not exist
+LINE 9: and m.group_id in (Group000)          
+                           ^
+2017-05-12 14:39:48 ERROR  : ERROR:  duplicate key value violates unique constraint "group_info_pkey"
+DETAIL:  Key (id)=(12) already exists.
+2017-05-12 14:39:48 ERROR  : ERROR:  duplicate key value violates unique constraint "group_info_pkey"
+DETAIL:  Key (id)=(12) already exists.
+2017-05-15 10:00:40 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2017-05-15 12:49:52 ERROR  : ERROR:  column "manager_id" contains null values
+2017-05-15 12:50:02 ERROR  : ERROR:  zero-length delimited identifier at or near """"
+LINE 2: ...COLUMN manager_id character varying(20) NOT NULL DEFAULT "";
+                                                                    ^
+2017-05-15 15:27:33 ERROR  : ERROR:  syntax error at or near "on"
+LINE 2:     on e.employ_id = d3.employee_id     
+            ^
+2017-05-16 17:49:14 ERROR  : ERROR:  column reference "manager_id" is ambiguous
+LINE 7: and (manager_id is null or manager_id = '' or employee_id is...
+             ^
+2017-05-17 09:14:59 ERROR  : ERROR:  column reference "manager_id" is ambiguous
+LINE 7: and (manager_id is null or manager_id = '' or employee_id is...
+             ^
+2017-05-18 10:56:55 ERROR  : ERROR:  syntax error at or near "("
+LINE 4:     ('2', '4', 'Manager');
+            ^
+2017-05-19 14:51:45 ERROR  : ERROR:  syntax error at end of input
+LINE 24: 
+         ^
+2017-05-22 10:25:37 ERROR  : ERROR:  syntax error at or near "}"
+LINE 2: ...erName', '001GroupID', '8000100001', '2017-05-22 09:59:38'})
+                                                                     ^
+2017-05-22 10:25:49 ERROR  : ERROR:  duplicate key value violates unique constraint "manager_info_pkey"
+DETAIL:  Key (id)=(2) already exists.
+2017-05-23 09:55:54 ERROR  : ERROR:  syntax error at or near "eft"
+LINE 10:    eft join did_info d1 on e.employ_id = d1.employee_id left...
+            ^
+2017-05-23 14:11:52 ERROR  : ERROR:  invalid input syntax for integer: ""
+LINE 4: VALUES ('adminIT3', '', 'Admin1', 'bff29fe2c3269812851d6fda6...
+                            ^
+2017-05-23 16:54:36 ERROR  : ERROR:  value too long for type character varying(20)
+2017-05-23 16:54:37 ERROR  : ERROR:  value too long for type character varying(20)
+2017-05-24 11:17:47 ERROR  : ERROR:  relation "contact_result" does not exist
+LINE 8:      contact_result r, contact_handling h
+             ^
+2017-05-24 11:23:49 ERROR  : ERROR:  syntax error at or near "contact_handling"
+LINE 1: contact_handling
+        ^
+2017-05-24 11:24:32 ERROR  : ERROR:  syntax error at or near ")"
+LINE 1: )
+        ^
+2017-05-24 11:25:25 ERROR  : ERROR:  column c.destination_num_type does not exist
+LINE 2:        c.contact_destination_num, c.destination_num_type,
+                                          ^
+2017-05-24 14:32:29 ERROR  : ERROR:  syntax error at or near "0"
+LINE 12:     c.contact_original_num like '%'0'%'
+                                            ^
+2017-05-24 15:19:19 ERROR  : ERROR:  missing FROM-clause entry for table "c"
+LINE 1: ... manager_id from did_info left join did_info d on c.contact_...
+                                                             ^
+2017-05-24 15:20:06 ERROR  : ERROR:  relation "contact_destination" does not exist
+LINE 1: select manager_id from did_info d, contact_destination c lef...
+                                           ^
+2017-05-24 15:20:23 ERROR  : ERROR:  table name "d" specified more than once
+2017-05-27 12:37:55 ERROR  : ERROR:  value too long for type character varying(20)
+2017-06-02 14:53:15 ERROR  : ERROR:  column u.mamager_id does not exist
+LINE 1: ...        and r.role_id = u.role_id             and u.mamager_...
+                                                             ^
+2017-06-02 14:54:00 ERROR  : ERROR:  column u.mamager_id does not exist
+LINE 4:  and u.mamager_id = m.manager_id            
+             ^
+2017-06-02 14:54:02 ERROR  : ERROR:  column u.mamager_id does not exist
+LINE 4:  and u.mamager_id = m.manager_id            
+             ^
+2017-06-02 14:54:02 ERROR  : ERROR:  column u.mamager_id does not exist
+LINE 4:  and u.mamager_id = m.manager_id            
+             ^
+2017-06-02 14:54:03 ERROR  : ERROR:  column u.mamager_id does not exist
+LINE 4:  and u.mamager_id = m.manager_id            
+             ^
+2017-06-02 14:54:03 ERROR  : ERROR:  column u.mamager_id does not exist
+LINE 4:  and u.mamager_id = m.manager_id            
+             ^
+2017-06-02 18:23:22 ERROR  : ERROR:  syntax error at or near "0639985001"
+LINE 6: ...er_id = e.manager_id   where m.manager_id like '%'0639985001...
+                                                             ^
+2017-06-07 13:51:09 ERROR  : ERROR:  syntax error at or near "null"
+LINE 3:  where  m.manager_id not null
+                                 ^
+2017-06-09 16:11:18 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...ere  m.manager_id is not null order by group_name group by g...
+                                                             ^
+2017-06-09 16:11:41 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...ere  m.manager_id is not null order by group_name group by g...
+                                                             ^
+2017-06-09 16:11:54 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: group
+        ^
+2017-06-09 16:12:07 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...id=m.group_id where  m.manager_id is not null and group by g...
+                                                             ^
+2017-06-09 16:12:08 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...id=m.group_id where  m.manager_id is not null and group by g...
+                                                             ^
+2017-06-09 16:12:08 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...id=m.group_id where  m.manager_id is not null and group by g...
+                                                             ^
+2017-06-09 16:12:08 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...id=m.group_id where  m.manager_id is not null and group by g...
+                                                             ^
+2017-06-09 16:12:09 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...id=m.group_id where  m.manager_id is not null and group by g...
+                                                             ^
+2017-06-09 16:12:09 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...id=m.group_id where  m.manager_id is not null and group by g...
+                                                             ^
+2017-06-09 16:12:09 ERROR  : ERROR:  syntax error at or near "group"
+LINE 1: ...id=m.group_id where  m.manager_id is not null and group by g...
+                                                             ^
+2017-06-09 16:12:26 ERROR  : ERROR:  column "g.id" must appear in the GROUP BY clause or be used in an aggregate function
+2017-06-09 16:12:44 ERROR  : ERROR:  column "g.id" must appear in the GROUP BY clause or be used in an aggregate function
+2017-06-09 16:14:05 ERROR  : ERROR:  syntax error at or near "GROUP"
+LINE 3:  GROUP by group_id 
+         ^
+2017-06-09 16:14:16 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by group_id 
+        ^
+2017-06-09 16:15:26 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:34 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:35 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:35 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:35 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:36 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:36 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:36 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:36 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:36 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:15:36 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3: group by g.group_id 
+        ^
+2017-06-09 16:18:23 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:24 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:24 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:24 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:24 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:24 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:25 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:25 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:33 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:33 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:34 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:34 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:34 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:48 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:48 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:18:48 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id 
+         ^
+2017-06-09 16:21:18 ERROR  : ERROR:  syntax error at or near "manager_info"
+LINE 1:  select * from group_info g inner join join manager_info m o...
+                                                    ^
+2017-06-09 16:29:53 ERROR  : ERROR:  syntax error at or near "group"
+LINE 3:  group by g.group_id
+         ^
+2017-06-09 16:30:38 ERROR  : ERROR:  syntax error at or near "group_id"
+LINE 1: group_id
+        ^
+2017-06-09 16:30:48 ERROR  : ERROR:  syntax error at or near "group"
+LINE 4:  group by g.group_id
+         ^
+2017-06-09 16:31:08 ERROR  : ERROR:  syntax error at or near "groud"
+LINE 4:  groud by g.group_id
+         ^
+2017-06-09 16:31:12 ERROR  : ERROR:  syntax error at or near "group"
+LINE 4:  group by g.group_id
+         ^
+2017-06-09 16:31:14 ERROR  : ERROR:  syntax error at or near "group"
+LINE 4:  group by g.group_id
+         ^
+2017-06-16 13:54:59 ERROR  : ERROR:  argument of AND must be type boolean, not type character varying
+LINE 1: select update_time and count(*) from clid_info
+               ^
+2017-06-16 13:55:11 ERROR  : ERROR:  argument of AND must be type boolean, not type character varying
+LINE 1: select c.update_time and count(*) from clid_info c
+               ^
+2017-06-16 13:55:19 ERROR  : ERROR:  syntax error at or near "("
+LINE 1: select c.update_time  count(*) from clid_info c
+                                   ^
+2017-06-19 14:12:43 ERROR  : ERROR:  syntax error at or near "select"
+LINE 2: select count(*) from clid_info c
+        ^
+2017-06-20 09:42:34 ERROR  : ERROR:  duplicate key value violates unique constraint "group_info_pkey"
+DETAIL:  Key (id)=(114) already exists.
+2017-06-20 10:58:52 ERROR  : ERROR:  syntax error at or near "*"
+LINE 1: delete * from clid_info
+               ^
+2017-06-30 11:23:42 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-06-30 11:28:02 ERROR  : ERROR:  column "employ_id" does not exist
+LINE 1: delete from did_info where manager_id is null or employ_id i...
+                                                         ^
+2017-06-30 11:43:27 ERROR  : ERROR:  column "employee_ie" does not exist
+LINE 1: delete from did_info where manager_id is null and employee_i...
+                                                          ^
+2017-06-30 11:50:18 ERROR  : ERROR:  syntax error at or near "select"
+LINE 4: select * from did_info where update_time like("2017-06-30%")
+        ^
+2017-06-30 11:50:24 ERROR  : ERROR:  syntax error at or near "select"
+LINE 4: select * from did_info where update_time is like("2017-06-30...
+        ^
+2017-06-30 11:53:08 ERROR  : ERROR:  syntax error at or near "select"
+LINE 4: select * from did_info where update_time like '2017-06-30%'
+        ^
+2017-07-03 15:49:14 ERROR  : ERROR:  syntax error at or near "from"
+LINE 3: delete from did_info where manager_id is null and employee_i...
+               ^
+2017-07-03 15:51:58 ERROR  : ERROR:  syntax error at or near "from"
+LINE 3: delete from did_info where manager_id is null and employee_i...
+               ^
+2017-07-03 16:21:38 ERROR  : ERROR:  syntax error at or near "from"
+LINE 3: delete from did_info where manager_id is null and employee_i...
+               ^
+2017-07-03 16:22:28 ERROR  : ERROR:  syntax error at or near "from"
+LINE 3: delete from did_info where manager_id is null and employee_i...
+               ^
+2017-07-03 16:25:12 ERROR  : ERROR:  syntax error at or near "from"
+LINE 3: delete from did_info where manager_id is null and employee_i...
+               ^
+2017-07-03 16:45:03 ERROR  : ERROR:  syntax error at or near "select"
+LINE 2: select count(*) from clid_info
+        ^
+2017-07-05 13:58:55 ERROR  : ERROR:  syntax error at or near "delect"
+LINE 1: delect from did_info where did like '73500%'
+        ^
+2017-07-19 10:17:59 ERROR  : ERROR:  syntax error at or near "login_id"
+LINE 1: select distinct * login_id from login_user_info
+                          ^
+2017-07-19 10:18:24 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 1: select distinct login_id ,distinct login_name from login_use...
+                                  ^
+2017-07-19 10:18:54 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 1: select distinct login_id and distinct login_name from login_...
+                                     ^
+2017-07-19 10:18:59 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 1: select distinct login_id distinct login_name from login_user...
+                                 ^
+2017-07-19 10:19:06 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 1: select distinct login_id distinct login_name from login_user...
+                                 ^
+2017-07-19 10:20:37 ERROR  : ERROR:  for SELECT DISTINCT, ORDER BY expressions must appear in select list
+LINE 1: ...t distinct login_id from login_user_info order by login_name
+                                                             ^
+2017-07-19 10:22:43 ERROR  : ERROR:  syntax error at or near "2"
+LINE 1: select top 2 *  from login_user_info limit 4
+                   ^
+2017-07-19 10:22:47 ERROR  : ERROR:  syntax error at or near "2"
+LINE 1: select top 2 *  from login_user_info 
+                   ^
+2017-07-19 10:23:07 ERROR  : ERROR:  syntax error at or near "login_user_info"
+LINE 1: login_user_info
+        ^
+2017-07-19 14:24:11 ERROR  : ERROR:  syntax error at or near "1"
+LINE 1: select TOP 1 *  from login_user_info 
+                   ^
+2017-07-19 14:24:17 ERROR  : ERROR:  syntax error at or near "1"
+LINE 1: select TOP 1  from login_user_info 
+                   ^
+2017-07-19 14:24:23 ERROR  : ERROR:  syntax error at or near "TOP"
+LINE 1: select * TOP 1  from login_user_info 
+                 ^
+2017-07-28 15:06:37 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-07-31 15:18:33 ERROR  : ERROR:  syntax error at or near "'tb_employee'"
+LINE 2: CREATE TABLE 'tb_employee' (
+                     ^
+2017-07-31 15:18:50 ERROR  : ERROR:  syntax error at or near "'id'"
+LINE 3:   'id' int(10) unsigned NOT NULL AUTO_INCREMENT,
+          ^
+2017-07-31 15:19:32 ERROR  : ERROR:  syntax error at or near "("
+LINE 3:   id int(10) unsigned NOT NULL AUTO_INCREMENT,
+                ^
+2017-07-31 15:19:38 ERROR  : ERROR:  syntax error at or near "("
+LINE 3:   id integer(10) unsigned NOT NULL AUTO_INCREMENT,
+                    ^
+2017-07-31 15:20:10 ERROR  : ERROR:  syntax error at or near "'id'"
+LINE 3:   'id' int(10) unsigned NOT NULL AUTO_INCREMENT,
+          ^
+2017-07-31 15:21:33 ERROR  : ERROR:  relation "role_info_pkey" already exists
+2017-07-31 15:21:55 ERROR  : ERROR:  relation "tb_employee" already exists
+2017-07-31 15:22:38 ERROR  : ERROR:  relation "tb_employee" already exists
+2017-07-31 15:36:05 ERROR  : ERROR:  syntax error at or near "fromtb_employee"
+LINE 2: select * fromtb_employee
+                 ^
+2017-07-31 16:11:30 ERROR  : ERROR:  syntax error at or near "auto_increment"
+LINE 5:  teacher_id int auto_increment,
+                        ^
+2017-07-31 16:12:16 ERROR  : ERROR:  syntax error at or near "("
+LINE 5:  teacher_id int(10) auto_increment,
+                       ^
+2017-07-31 16:12:27 ERROR  : 
+2017-07-31 16:15:06 ERROR  : ERROR:  syntax error at or near "auto_increment"
+LINE 3:  teacher_id int auto_increment,
+                        ^
+2017-07-31 16:15:44 ERROR  : ERROR:  syntax error at or near "("
+LINE 7: WITH (
+             ^
+2017-07-31 16:15:55 ERROR  : ERROR:  syntax error at or near "student_name"
+LINE 17:  student_name varchar(255),
+          ^
+2017-07-31 16:16:16 ERROR  : ERROR:  syntax error at or near "20"
+LINE 1: 20
+        ^
+2017-07-31 16:17:00 ERROR  : 
+2017-07-31 16:24:34 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-07-31 16:26:01 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2017-07-31 16:33:05 ERROR  : ERROR:  syntax error at or near "("
+LINE 3:  id int(10) NOT NULL auto_increment,
+               ^
+2017-07-31 16:33:32 ERROR  : ERROR:  syntax error at or near "auto_increment"
+LINE 3:  id int NOT NULL auto_increment,
+                         ^
+2017-07-31 16:33:50 ERROR  : ERROR:  syntax error at or near "AUTO_INCREMENT"
+LINE 3:  id int NOT NULL AUTO_INCREMENT,
+                         ^
+2017-07-31 16:34:36 ERROR  : ERROR:  syntax error at or near "OIDS"
+LINE 2:   OIDS=FALSE
+          ^
+2017-07-31 16:34:49 ERROR  : ERROR:  syntax error at or near "("
+LINE 3:   task_id INT(11) NOT NULL AUTO_INCREMENT,
+                     ^
+2017-07-31 16:34:58 ERROR  : ERROR:  syntax error at or near "("
+LINE 3:   task_id INT(1) NOT NULL AUTO_INCREMENT,
+                     ^
+2017-07-31 16:35:04 ERROR  : ERROR:  syntax error at or near "("
+LINE 3:   task_id INT(11) NOT NULL AUTO_INCREMENT,
+                     ^
+2017-07-31 16:35:16 ERROR  : ERROR:  syntax error at or near "AUTO_INCREMENT"
+LINE 3:   task_id INT NOT NULL AUTO_INCREMENT,
+                               ^
+2017-07-31 16:35:17 ERROR  : ERROR:  syntax error at or near "AUTO_INCREMENT"
+LINE 3:   task_id INT NOT NULL AUTO_INCREMENT,
+                               ^
+2017-07-31 16:35:18 ERROR  : ERROR:  syntax error at or near "AUTO_INCREMENT"
+LINE 3:   task_id INT NOT NULL AUTO_INCREMENT,
+                               ^
+2017-07-31 16:35:46 ERROR  : ERROR:  syntax error at or near "ALTER"
+LINE 9: ALTER TABLE tasks OWNER TO postgres;
+        ^
+2017-07-31 16:35:53 ERROR  : ERROR:  syntax error at or near "ALTER"
+LINE 8: ALTER TABLE tasks OWNER TO postgres;
+        ^
+2017-07-31 16:35:56 ERROR  : ERROR:  relation "role_info_pkey" already exists
+2017-09-08 10:23:02 ERROR  : ERROR:  relation "emloyee_info" does not exist
+LINE 1: ...nt(*) from clid_info c,did_info d,manager_info m, emloyee_in...
+                                                             ^
+2017-09-08 10:23:39 ERROR  : ERROR:  syntax error at or near "manager_info"
+LINE 2:  manager_info 
+         ^
+2017-09-08 10:23:50 ERROR  : ERROR:  syntax error at or near "*"
+LINE 1: (*)
+         ^
+2017-09-08 10:23:58 ERROR  : ERROR:  count(*) must be used to call a parameterless aggregate function
+LINE 1: select count()
+               ^
+2017-09-08 10:24:09 ERROR  : ERROR:  column c.did does not exist
+LINE 6: where c.did = '1207011101' or 
+              ^
+2017-09-08 10:44:28 ERROR  : ERROR:  duplicate key value violates unique constraint "clid_info_pkey"
+DETAIL:  Key (id)=(58714) already exists.
+2017-09-08 10:55:22 ERROR  : ERROR:  subquery in FROM must have an alias
+LINE 2: from (select * from clid_info where c.clid = '1207011101')
+             ^
+HINT:  For example, FROM (SELECT ...) [AS] foo.
+2017-09-08 10:55:38 ERROR  : ERROR:  syntax error at or near "as"
+LINE 2: ... (select * from clid_info where c.clid = '1207011101' as cc)
+                                                                 ^
+2017-09-08 10:55:52 ERROR  : ERROR:  missing FROM-clause entry for table "c"
+LINE 2: from (select * from clid_info where c.clid = '1207011101') a...
+                                            ^
+2017-09-08 10:59:01 ERROR  : ERROR:  syntax error at end of input
+LINE 4: ...ect * from manager_info m where m.sim = '1207011101') as mm,
+                                                                       ^
+2017-09-08 11:01:48 ERROR  : ERROR:  syntax error at or near "from"
+LINE 1: from ((select * from clid_info c where c.clid = '1207011101'...
+        ^
+2017-09-08 11:04:12 ERROR  : ERROR:  syntax error at or near "from"
+LINE 1: from (
+        ^
+2017-09-08 11:05:31 ERROR  : ERROR:  syntax error at or near "select"
+LINE 8: select count(*)
+        ^
+2017-09-08 11:06:26 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 5:  distinct d.did,
+         ^
+2017-09-08 11:41:13 ERROR  : ERROR:  syntax error at or near ")"
+LINE 1: ...t c.clid from clid_info c where c.clid = '1207011101') as cc
+                                                                ^
+2017-09-08 11:41:39 ERROR  : ERROR:  each UNION query must have the same number of columns
+LINE 3:  select * from did_info d where d.did = '1207011101' 
+                ^
+2017-09-08 11:44:08 ERROR  : ERROR:  syntax error at or near "from"
+LINE 1: select count * from(
+                       ^
+2017-09-08 12:27:36 ERROR  : ERROR:  subquery in FROM must have an alias
+LINE 3: from (
+             ^
+HINT:  For example, FROM (SELECT ...) [AS] foo.
+2017-09-08 12:27:47 ERROR  : ERROR:  subquery in FROM must have an alias
+LINE 2: from (
+             ^
+HINT:  For example, FROM (SELECT ...) [AS] foo.
+2017-09-08 13:08:41 ERROR  : ERROR:  syntax error at or near "count"
+LINE 1: count(*) from clid_info
+        ^
+2017-09-08 13:19:11 ERROR  : ERROR:  canceling statement due to user request
+2017-09-08 13:20:07 ERROR  : ERROR:  count(*) must be used to call a parameterless aggregate function
+LINE 1: select count()
+               ^
+2017-09-08 16:20:32 ERROR  : ERROR:  syntax error at or near ")"
+LINE 11:       ) as simn
+               ^
+2017-09-08 16:20:38 ERROR  : ERROR:  syntax error at or near "select"
+LINE 17: select *
+         ^
+2017-09-08 16:24:49 ERROR  : ERROR:  syntax error at or near "union"
+LINE 3:  union
+         ^
+2017-09-08 17:47:13 ERROR  : Unexpected empty cache line: dataSet already closed.
+2017-09-19 09:54:27 ERROR  : ERROR:  syntax error at or near "count"
+LINE 1: count(*) from clid_info
+        ^
+2017-09-19 09:54:43 ERROR  : ERROR:  syntax error at or near "count"
+LINE 1: count(*) from clid_info
+        ^
+2017-09-19 09:56:57 ERROR  : ERROR:  syntax error at or near "select"
+LINE 2: select count(*) from clid_info
+        ^
+2017-09-26 14:09:20 ERROR  : ERROR:  syntax error at or near "elect"
+LINE 1: elect count(*) from clid_info;
+        ^
+2017-09-26 16:34:43 ERROR  : ERROR:  syntax error at or near "elete"
+LINE 1: elete from clid_info;
+        ^
+2017-09-27 10:22:08 ERROR  : ERROR:  missing FROM-clause entry for table "e"
+LINE 1: select * from employee_info where e.employ_id like '%%' 
+                                          ^
+2017-09-28 10:19:02 ERROR  : ERROR:  syntax error at or near "delete"
+LINE 7: delete from clid_info;
+        ^
+2017-10-27 16:36:55 ERROR  : ERROR:  value "02347689821" is out of range for type integer
+LINE 1: ...0000800001'::bigint, 'George'::text, 'Gao'::text, '023476898...
+                                                             ^
+2017-10-27 16:36:57 ERROR  : ERROR:  value "02347689821" is out of range for type integer
+LINE 1: ...0000800001'::bigint, 'George'::text, 'Gao'::text, '023476898...
+                                                             ^
+2017-10-27 16:43:54 ERROR  : ERROR:  null value in column "msisdn" violates not-null constraint
+2017-10-27 16:44:16 ERROR  : ERROR:  value too long for type character varying(11)
+2017-10-27 16:44:17 ERROR  : ERROR:  value too long for type character varying(11)
+2017-10-27 16:44:34 ERROR  : ERROR:  value too long for type character varying(11)
+2017-10-27 16:44:37 ERROR  : ERROR:  value too long for type character varying(11)
+2017-10-27 16:44:46 ERROR  : ERROR:  value too long for type character varying(11)
+2017-10-27 17:53:21 ERROR  : ERROR:  value "02347689821" is out of range for type integer
+LINE 1: ...0000800001'::bigint, 'George'::text, 'Gao'::text, '023476898...
+                                                             ^
+2017-11-01 15:34:52 ERROR  : ERROR:  null value in column "msisdn" violates not-null constraint
+2017-11-01 15:34:53 ERROR  : ERROR:  null value in column "msisdn" violates not-null constraint
+2017-11-01 15:34:54 ERROR  : ERROR:  null value in column "msisdn" violates not-null constraint
+2017-11-01 15:35:00 ERROR  : ERROR:  syntax error at end of input
+LINE 1: DELETE FROM public.uui_transefer WHERE 
+                                               ^
+2017-11-01 15:35:02 ERROR  : ERROR:  null value in column "msisdn" violates not-null constraint
+2017-11-01 15:35:08 ERROR  : ERROR:  null value in column "msisdn" violates not-null constraint
+2017-11-01 15:35:10 ERROR  : ERROR:  null value in column "msisdn" violates not-null constraint
+2017-11-01 15:35:12 ERROR  : ERROR:  null value in column "msisdn" violates not-null constraint
+2017-11-02 10:58:43 ERROR  : ERROR:  value too long for type character varying(16)
+2017-11-09 10:52:47 ERROR  : ERROR:  syntax error at or near "COMMENT"
+LINE 7:   title character varying(10) COMMENT 'Customers titles',
+                                      ^
+2017-11-09 10:55:38 ERROR  : ERROR:  syntax error at or near "COMMENT"
+LINE 7:   title character varying(10) COMMENT 'Customers titles',
+                                      ^
+2017-11-09 10:56:56 ERROR  : ERROR:  syntax error at or near "COMMENT"
+LINE 7:   title character varying(10) COMMENT ON 'Customers titles',
+                                      ^
+2018-02-23 20:29:46 ERROR  : ERROR:  relation "person" already exists
+2018-03-07 12:14:42 ERROR  : ERROR:  LIMIT #,# syntax is not supported
+LINE 1: select * from did_info limit 0,10;
+                               ^
+HINT:  Use separate LIMIT and OFFSET clauses.
+2018-03-07 12:16:27 ERROR  : ERROR:  syntax error at or near "4"
+LINE 1: SELECT * FROM did_info LIMIT 0 4;
+                                       ^
+2018-03-07 12:17:07 ERROR  : ERROR:  syntax error at or near "of"
+LINE 1: SELECT * FROM did_info LIMIT 1 of 4;
+                                       ^
+2018-03-07 12:19:46 ERROR  : ERROR:  syntax error at or near "order"
+LINE 1: SELECT * FROM did_info LIMIT 3 offset 2 order by did
+                                                ^
+2018-03-07 12:19:56 ERROR  : ERROR:  syntax error at or near "SELECT"
+LINE 3: SELECT * FROM did_info 
+        ^
+2018-03-07 21:18:35 ERROR  : ERROR:  syntax error at or near "SELECT"
+LINE 3: SELECT * FROM did_info 
+        ^
+2018-03-07 21:29:51 ERROR  : ERROR:  syntax error at or near "from"
+LINE 1: select * limit 1000 from did_info d left join manager_info m...
+                            ^
+2018-03-08 18:47:36 ERROR  : ERROR:  syntax error at or near "select"
+LINE 10:   select * from did_info d left join manager_info m on d.man...
+           ^
+2018-03-19 10:56:00 ERROR  : ERROR:  column "20" does not exist
+LINE 3:     VALUES (1, "20", "A");
+                       ^
+2018-03-19 11:44:32 ERROR  : ERROR:  duplicate key value violates unique constraint "girl_pkey"
+DETAIL:  Key (id)=(1) already exists.
+2018-03-19 12:35:05 ERROR  : ERROR:  value too long for type character varying(1)
+2018-03-19 12:35:27 ERROR  : ERROR:  value too long for type character varying(1)
+2018-03-19 12:35:32 ERROR  : ERROR:  value too long for type character varying(1)
+2018-03-27 12:00:11 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-04-13 11:52:06 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-04-13 11:53:01 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-04-13 12:21:12 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2018-05-02 11:59:29 ERROR  : ERROR:  null value in column "id" violates not-null constraint
+2018-05-02 11:59:51 ERROR  : ERROR:  INSERT has more target columns than expressions
+LINE 2:            id, c_password, c_user_name)
+                                   ^
+2018-05-24 17:46:40 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 1: select e.id, distinct  e.employ_id, e.employ_name, d1.did di...
+                     ^
+2018-05-24 17:51:06 ERROR  : ERROR:  missing FROM-clause entry for table "s"
+LINE 1: ....sim msim, d1.did did1, d2.did did2, d3.did did3, s.did sms,...
+                                                             ^
+2018-05-24 17:51:20 ERROR  : ERROR:  syntax error at or near "e"
+LINE 1: ...m.sim msim, d1.did did1, d2.did did2, d3.did did3 e.update_t...
+                                                             ^
+2018-05-24 17:51:27 ERROR  : ERROR:  missing FROM-clause entry for table "s"
+LINE 30: and s.did_type = '2' 
+             ^
+2018-05-24 17:57:43 ERROR  : ERROR:  syntax error at or near "order"
+LINE 2: order by e.group_id, e.manager_id, e.employ_id 
+        ^
+2018-05-24 18:22:11 ERROR  : ERROR:  syntax error at or near "-"
+LINE 1: -left join did_info s on e.employ_id = s.employee_id 
+        ^
+2018-05-24 18:22:41 ERROR  : 
+2018-05-25 09:20:17 ERROR  : ERROR:  schema "e" does not exist
+2018-05-25 09:20:42 ERROR  : ERROR:  column "e.id" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select distinct  e.id, e.employ_id, e.employ_name, e.sim, e....
+                         ^
+2018-05-25 09:21:36 ERROR  : ERROR:  column "e.id" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select distinct  e.id, e.employ_id, e.employ_name, e.sim, e....
+                         ^
+2018-05-25 09:22:08 ERROR  : ERROR:  syntax error at or near "where"
+LINE 16: where e.employ_id like '%%' and e.sim like '%%' and e.employ...
+         ^
+2018-05-25 09:22:21 ERROR  : ERROR:  syntax error at or near "order"
+LINE 26: order by e.group_id, e.manager_id, e.employ_id 
+         ^
+2018-05-25 09:23:13 ERROR  : ERROR:  syntax error at or near "join"
+LINE 12: left join did_info s on 0=0
+              ^
+2018-05-25 09:28:50 ERROR  : ERROR:  syntax error at or near "where"
+LINE 16: where e.employ_id like '%%' and e.sim like '%%' and e.employ...
+         ^
+2018-05-25 09:28:56 ERROR  : ERROR:  syntax error at or near "where"
+LINE 16: where e.employ_id like '%%' and e.sim like '%%' and e.employ...
+         ^
+2018-05-25 09:29:02 ERROR  : ERROR:  syntax error at or near "where"
+LINE 16: where e.employ_id like '%%' and e.sim like '%%' and e.employ...
+         ^
+2018-05-25 09:31:36 ERROR  : ERROR:  canceling statement due to user request
+2018-05-25 09:36:11 ERROR  : ERROR:  syntax error at or near "left"
+LINE 11: left join did_info d2 on (e.employ_id = d2.employee_id and  ...
+         ^
+2018-05-25 09:36:48 ERROR  : ERROR:  column "e.id" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select distinct  e.id, e.employ_id, e.employ_name, e.sim, e....
+                         ^
+2018-05-25 09:36:56 ERROR  : ERROR:  column "e.id" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select  e.id, e.employ_id, e.employ_name, e.sim, e.group_id,...
+                ^
+2018-05-25 09:37:24 ERROR  : ERROR:  syntax error at or near "msim"
+LINE 20: ...g.group_name, e.manager_id, m.manager_name, m.sim msim, d1.d...
+                                                              ^
+2018-05-25 09:37:47 ERROR  : ERROR:  syntax error at or near "did1"
+LINE 20: ...name, e.manager_id, m.manager_name, m.sim, d1.did did1, d2.d...
+                                                              ^
+2018-05-25 09:56:45 ERROR  : ERROR:  syntax error at or near "employee_id"
+LINE 1: employee_id
+        ^
+2018-05-25 10:06:38 ERROR  : ERROR:  syntax error at or near "employee_id"
+LINE 1: employee_id
+        ^
+2018-05-25 10:09:07 ERROR  : ERROR:  syntax error at or near "where"
+LINE 18: where e.employ_id like '%%' and e.sim like '%%' and e.employ...
+         ^
+2018-05-25 10:09:20 ERROR  : ERROR:  column "e.id" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select  e.id, e.employ_id, e.employ_name, e.sim, e.group_id,...
+                ^
+2018-05-25 10:09:58 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 1: select  e.id, distinct e.employ_id, e.employ_name, e.sim, e....
+                      ^
+2018-05-25 10:26:26 ERROR  : ERROR:  syntax error at or near ","
+LINE 1: ...  e.employ_id, e.manager_id, e.employ_name, e.sim,,e.update_...
+                                                             ^
+2018-05-25 10:26:34 ERROR  : ERROR:  syntax error at or near ","
+LINE 3:  , m.manager_name, m.sim msim
+         ^
+2018-05-25 10:26:52 ERROR  : ERROR:  syntax error at or near "s"
+LINE 4:  , d1.did did1, d2.did did2, d3.did did3 s.did sms
+                                                 ^
+2018-05-25 10:29:00 ERROR  : ERROR:  syntax error at or near "."
+LINE 1: select distinct dist e.id,  e.employ_id, e.manager_id, e.emp...
+                              ^
+2018-05-25 10:36:21 ERROR  : 
+2018-05-25 11:37:24 ERROR  : ERROR:  syntax error at or near "left"
+LINE 12: left join group_info g on e.group_id = g.group_id 
+         ^
+2018-05-25 11:37:32 ERROR  : ERROR:  syntax error at or near "select"
+LINE 38: select e.id, e.employ_id, e.employ_name, e.sim, e.group_id, ...
+         ^
+2018-05-25 13:12:39 ERROR  : ERROR:  syntax error at or near "left"
+LINE 4:         left join group_info g on e.group_id = g.group_id   ...
+                ^
+2018-05-25 13:13:20 ERROR  : ERROR:  syntax error at or near "left"
+LINE 4:         left join group_info g on e.group_id = g.group_id   ...
+                ^
+2018-06-07 17:38:25 ERROR  : ERROR:  syntax error at or near "subgroup_detail"
+LINE 2:   subgroup_detail character varying(50),
+          ^
+2018-06-07 17:40:27 ERROR  : ERROR:  relation "subgroup_info" already exists
+2018-06-07 17:52:22 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-06-08 10:32:35 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2018-06-08 11:06:54 ERROR  : ERROR:  null value in column "subgroup_id" violates not-null constraint
+2018-06-08 11:07:38 ERROR  : ERROR:  value too long for type character varying(10)
+2018-06-08 11:07:46 ERROR  : ERROR:  value too long for type character varying(10)
+2018-06-08 11:07:56 ERROR  : ERROR:  value too long for type character varying(10)
+2018-06-08 11:07:56 ERROR  : ERROR:  value too long for type character varying(10)
+2018-06-08 11:07:58 ERROR  : ERROR:  value too long for type character varying(10)
+2018-06-08 11:10:57 ERROR  : ERROR:  function getdate() does not exist
+LINE 3: ...Gp', 'groupCnc', 'sub001Gpame', 'sub001GpDetail', getdate())...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+2018-06-08 11:11:46 ERROR  : ERROR:  function getdate() does not exist
+LINE 3: ...Gp', 'groupCnc', 'sub001Gpame', 'sub001GpDetail', GETDATE())...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+2018-06-08 11:12:01 ERROR  : ERROR:  function curdate() does not exist
+LINE 3: ...Gp', 'groupCnc', 'sub001Gpame', 'sub001GpDetail', curdate())...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+2018-06-08 11:12:21 ERROR  : ERROR:  column "sysdate" does not exist
+LINE 3: ...1Gp', 'groupCnc', 'sub001Gpame', 'sub001GpDetail', sysdate);
+                                                              ^
+2018-06-08 11:50:06 ERROR  : ERROR:  syntax error at or near "order"
+LINE 4:         order by group_name
+                ^
+2018-06-08 11:50:12 ERROR  : ERROR:  syntax error at end of input
+LINE 4:         
+                ^
+2018-06-08 11:51:03 ERROR  : ERROR:  syntax error at end of input
+LINE 4:         
+                ^
+2018-06-08 11:51:07 ERROR  : ERROR:  syntax error at or near "and"
+LINE 1: and subg.subgroup_id = ?  
+        ^
+2018-06-08 11:51:15 ERROR  : ERROR:  syntax error at end of input
+LINE 4:         
+                ^
+2018-06-08 12:05:43 ERROR  : ERROR:  column subg.group_detail does not exist
+LINE 2:  ,subg.group_detail, subg.update_time, gp.group_name        ...
+          ^
+2018-06-11 15:25:47 ERROR  : ERROR:  syntax error at or near "order"
+LINE 1: ...l from subgroup_info subg where subg.group_id = ? order by s...
+                                                             ^
+2018-06-11 15:26:00 ERROR  : ERROR:  zero-length delimited identifier at or near """"
+LINE 1: ...ail from subgroup_info subg where subg.group_id = "" order b...
+                                                             ^
+2018-06-11 15:26:09 ERROR  : ERROR:  column "000GroupID" does not exist
+LINE 1: ...ail from subgroup_info subg where subg.group_id = "000GroupI...
+                                                             ^
+2018-06-11 15:37:07 ERROR  : ERROR:  syntax error at or near "DISTINCT"
+LINE 2: select m.id, DISTINCT m.manager_id, m.manager_name, m.group_...
+                     ^
+2018-06-11 15:37:27 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 1: select m.id, distinct m.manager_id, m.manager_name, m.group_...
+                     ^
+2018-06-11 15:40:24 ERROR  : ERROR:  missing FROM-clause entry for table "d"
+LINE 1: ...m, m.update_time, g.id, g.group_id, g.group_name, d.id, d.di...
+                                                             ^
+2018-06-11 15:40:28 ERROR  : ERROR:  syntax error at or near "select"
+LINE 7: select * from subgroup_info
+        ^
+2018-06-11 15:40:35 ERROR  : ERROR:  missing FROM-clause entry for table "d"
+LINE 1: ...m, m.update_time, g.id, g.group_id, g.group_name, d.id, d.di...
+                                                             ^
+2018-06-11 15:41:01 ERROR  : ERROR:  syntax error at or near "left"
+LINE 2:  left join group_info g on m.group_id = g.group_id 
+         ^
+2018-06-11 15:49:17 ERROR  : ERROR:  syntax error at or near "order"
+LINE 4: ... and m.sim like '%%' and m.manager_name like '%%' order by m...
+                                                             ^
+2018-06-11 15:53:48 ERROR  : ERROR:  syntax error at or near "select"
+LINE 3: (select m.id,  m.manager_id, m.manager_name, m.group_id, m.s...
+         ^
+2018-06-11 15:55:06 ERROR  : ERROR:  syntax error at or near "magr"
+LINE 4:   left join group_info g on m.group_id = g.group_id ) magr 
+                                                              ^
+2018-06-11 15:56:10 ERROR  : ERROR:  column reference "manager_id" is ambiguous
+LINE 7: ...info d on magr.manager_id = d.manager_id group by manager_id
+                                                             ^
+2018-06-11 15:56:22 ERROR  : ERROR:  column "magr.id" must appear in the GROUP BY clause or be used in an aggregate function
+2018-06-11 15:58:00 ERROR  : ERROR:  syntax error at or near "."
+LINE 2: select magr.manager_id magr.manager_name from 
+                                   ^
+2018-06-11 15:58:11 ERROR  : ERROR:  column "magr.manager_name" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select magr.manager_id,magr.manager_name from 
+                               ^
+2018-06-11 16:00:57 ERROR  : ERROR:  syntax error at or near "from"
+LINE 1: select magr.manager_id,magr.manager_name, from 
+                                                  ^
+2018-06-11 16:01:13 ERROR  : ERROR:  missing FROM-clause entry for table "d"
+LINE 3:   , d.id, d.did, d.did_no, d.did_type, d.employee_id
+            ^
+2018-06-11 16:13:38 ERROR  : ERROR:  column reference "id" is ambiguous
+LINE 1: select magr.manager_id,magr.manager_name,  magr.id, magr.gro...
+                                                   ^
+2018-06-11 16:14:03 ERROR  : ERROR:  column reference "id" is ambiguous
+LINE 1: select magr.manager_id,magr.manager_name, magr.id, magr.grou...
+                                                  ^
+2018-06-11 16:16:06 ERROR  : ERROR:  column reference "group_id" is ambiguous
+LINE 1: ...elect magr.manager_id,magr.manager_name, magr.id, magr.group...
+                                                             ^
+2018-06-11 16:17:51 ERROR  : ERROR:  column "d.did" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: ...agr.id, magr.group_id, magr.sim, magr.update_time,d.did, d.d...
+                                                             ^
+2018-06-12 09:21:01 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-06-12 09:47:06 ERROR  : ERROR:  syntax error at or near "8641100008"
+LINE 1: 8641100008
+        ^
+2018-06-12 09:47:40 ERROR  : ERROR:  syntax error at or near "and"
+LINE 1: select * from did_info where  and employee_id='8641100008'
+                                      ^
+2018-06-12 09:47:42 ERROR  : ERROR:  syntax error at or near "and"
+LINE 1: select * from did_info where  and employee_id='8641100008'
+                                      ^
+2018-06-13 16:25:14 ERROR  : ERROR:  column "did8350027033" does not exist
+LINE 1: ...elect * from did_info where did_type='1' order by did8350027...
+                                                             ^
+2018-06-14 11:11:21 ERROR  : ERROR:  syntax error at or near "WHERE"
+LINE 5:  WHERE id=216005;
+         ^
+2018-06-14 12:25:43 ERROR  : ERROR:  relation "subroup_info" does not exist
+LINE 1: select * from subroup_info
+                      ^
+2018-06-14 12:27:12 ERROR  : ERROR:  column "sub0008name" does not exist
+LINE 1: UPDATE subgroup_info SET subgroup_name="sub0008name" where i...
+                                               ^
+2018-06-14 19:06:29 ERROR  : ERROR:  syntax error at or near "from"
+LINE 1: from subgroup_info subg                
+        ^
+2018-06-15 17:12:21 ERROR  : ERROR:  column "subgroud_id" does not exist
+LINE 1: select * from subgroup_info where subgroud_id='0000000000000...
+                                          ^
+2018-06-19 13:34:17 ERROR  : ERROR:  syntax error at or near "where"
+LINE 3: where m.manager_id like '%2012001' and m.sim like '%%' and m...
+        ^
+2018-06-19 13:34:29 ERROR  : ERROR:  syntax error at or near "where"
+LINE 3: where m.manager_id like '%2012001%' and m.sim like '%%' and ...
+        ^
+2018-06-19 13:35:19 ERROR  : ERROR:  argument of AND must be type boolean, not type character varying
+LINE 16:         where  m.manager_id is not null order by g.group_nam...
+                                                          ^
+2018-06-19 13:36:33 ERROR  : ERROR:  syntax error at or near "select"
+LINE 14: select m.id mid,
+         ^
+2018-06-19 13:37:14 ERROR  : ERROR:  syntax error at or near "000"
+LINE 16:         and m.group_id like '%'000''
+                                        ^
+2018-06-19 14:02:57 ERROR  : ERROR:  column m.group_name does not exist
+LINE 16:       order by m.group_name
+                        ^
+2018-06-19 14:27:44 ERROR  : ERROR:  syntax error at or near "select"
+LINE 1: ...y g.group_name, subg.subgroup_name,m.manager_name select m.i...
+                                                             ^
+2018-06-19 14:27:51 ERROR  : ERROR:  syntax error at or near "select"
+LINE 1: ...y g.group_name, subg.subgroup_name,m.manager_name select m.i...
+                                                             ^
+2018-06-19 17:50:55 ERROR  : ERROR:  syntax error at or near "where"
+LINE 6:   where  m.manager_id is not null                         
+          ^
+2018-06-19 17:59:14 ERROR  : ERROR:  missing FROM-clause entry for table "m"
+LINE 1:  select m.id mid,             m.group_id mgroup_id,         ...
+                ^
+2018-06-19 17:59:45 ERROR  : ERROR:  missing FROM-clause entry for table "g"
+LINE 6:                         order by g.group_name, subg.subgroup...
+                                         ^
+2018-06-20 09:38:37 ERROR  : ERROR:  missing FROM-clause entry for table "subg"
+LINE 10:         order by g.group_name, subg.subgroup_name,m.manager_...
+                                        ^
+2018-06-20 09:39:28 ERROR  : ERROR:  syntax error at or near "distinct"
+LINE 3:            distinct g.group_id ggroup_id,
+                   ^
+2018-06-20 09:39:40 ERROR  : ERROR:  for SELECT DISTINCT, ORDER BY expressions must appear in select list
+LINE 10:         order by g.group_name, m.manager_name
+                                        ^
+2018-06-20 09:44:23 ERROR  : ERROR:  column reference "group_id" is ambiguous
+LINE 10:         order by g.group_name,group_id
+                                       ^
+2018-06-20 10:53:09 ERROR  : ERROR:  syntax error at or near "subg"
+LINE 8:  subg.subgroup_name subg_subgroupName
+         ^
+2018-06-20 10:53:23 ERROR  : ERROR:  syntax error at or near "on"
+LINE 22:  on split_part(e.group_id,'-',1) = g.group_id
+          ^
+2018-06-20 11:09:11 ERROR  : ERROR:  missing FROM-clause entry for table "subg"
+LINE 34:       on split_part(e.group_id,'-',2) = subg.subgroup_id
+                                                 ^
+2018-06-20 11:09:33 ERROR  : ERROR:  missing FROM-clause entry for table "m"
+LINE 10:                  m.id m_id,
+                          ^
+2018-06-20 17:25:01 ERROR  : ERROR:  syntax error at or near "."
+LINE 14:                     d2.did did2,                     
+                               ^
+2018-06-20 17:28:29 ERROR  : ERROR:  syntax error at or near "."
+LINE 1: ...             d1.did did1,em                     d2.did did2,...
+                                                             ^
+2018-06-22 10:08:49 ERROR  : ERROR:  syntax error at or near "select"
+LINE 3: select id, did, did_no, did_type, employee_id, manager_id, u...
+        ^
+2018-06-22 14:19:47 ERROR  : ERROR:  null value in column "password" violates not-null constraint
+2018-06-22 14:20:57 ERROR  : ERROR:  null value in column "id" violates not-null constraint
+2018-06-25 13:52:15 ERROR  : ERROR:  relation "employee" does not exist
+LINE 1: select * from employee where sim like '%1%'
+                      ^
+2018-06-27 10:40:39 ERROR  : ERROR:  relation "did" does not exist
+LINE 1: select * from did where did_type ='2'
+                      ^
+2018-06-27 16:10:31 ERROR  : ERROR:  column d.did does not exist
+LINE 1: select d.did from clid_info d where d.did = '6666666666'
+               ^
+2018-06-27 16:10:46 ERROR  : ERROR:  column d.did does not exist
+LINE 1: select d.did from clid_info d where d.clid = '6666666666'
+               ^
+2018-07-03 14:10:51 ERROR  : ERROR:  relation "login_userinfo" does not exist
+LINE 1: select * from login_userinfo
+                      ^
+2018-07-05 15:55:23 ERROR  : ERROR:  null value in column "id" violates not-null constraint
+2018-07-05 15:55:36 ERROR  : ERROR:  INSERT has more target columns than expressions
+LINE 2:              id,c_password, c_user_name)
+                                    ^
+2018-07-06 17:50:34 ERROR  : ERROR:  column "wei41@avaya.com" does not exist
+LINE 4:     VALUES (1, "wei41@avaya.com", '', 'xingyue', '', 'wei', 
+                       ^
+2018-07-06 17:50:44 ERROR  : ERROR:  invalid input syntax for type boolean: ""
+LINE 4:     VALUES (1, 'wei41@avaya.com', '', 'xingyue', '', 'wei', 
+                                          ^
+2018-07-06 17:50:56 ERROR  : ERROR:  syntax error at or near ","
+LINE 4:     VALUES (1, 'wei41@avaya.com', , 'xingyue', '', 'wei', 
+                                          ^
+2018-07-06 17:51:00 ERROR  : ERROR:  invalid input syntax for type boolean: "xingyue"
+LINE 4:     VALUES (1, 'wei41@avaya.com', 'xingyue', '', 'wei', 
+                                          ^
+2018-07-06 17:51:25 ERROR  : ERROR:  null value in column "enabled" violates not-null constraint
+2018-07-06 17:51:40 ERROR  : ERROR:  null value in column "lastpasswordresetdate" violates not-null constraint
+2018-07-06 17:52:00 ERROR  : ERROR:  invalid input syntax for type timestamp: "201200101"
+LINE 4: ...  VALUES (1, 'wei41@avaya.com', true , 'xingyue', '201200101...
+                                                             ^
+2018-07-06 17:52:11 ERROR  : ERROR:  invalid input syntax for type timestamp: "14523698702"
+LINE 4: ...  VALUES (1, 'wei41@avaya.com', true , 'xingyue', '145236987...
+                                                             ^
+2018-07-06 17:52:15 ERROR  : ERROR:  invalid input syntax for type timestamp: "1452369870"
+LINE 4: ...  VALUES (1, 'wei41@avaya.com', true , 'xingyue', '145236987...
+                                                             ^
+2018-07-06 17:53:19 ERROR  : ERROR:  invalid input syntax for type timestamp: "1530870791"
+LINE 4: ...  VALUES (1, 'wei41@avaya.com', true , 'xingyue', '153087079...
+                                                             ^
+2018-07-06 17:53:28 ERROR  : ERROR:  column "lastpasswordresetdate" is of type timestamp without time zone but expression is of type integer
+LINE 4: ...  VALUES (1, 'wei41@avaya.com', true , 'xingyue', 1530870791...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+2018-07-06 17:53:38 ERROR  : ERROR:  syntax error at or near "1530870791"
+LINE 1: 1530870791
+        ^
+2018-07-06 17:55:51 ERROR  : ERROR:  column "lastpasswordresetdate" is of type timestamp without time zone but expression is of type integer
+LINE 4: ...   VALUES (1, 'wei41@avaya.com', true , 'xingyue',1530870791...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+2018-07-10 13:45:39 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-07-10 17:07:53 ERROR  : ERROR:  syntax error at or near "is"
+LINE 2:    SET  employee_id is null, manager_id is null, did_no is n...
+                            ^
+2018-07-20 10:29:58 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-07-20 13:49:07 ERROR  : ERROR:  invalid input syntax for type timestamp: "dd"
+LINE 1: ...action_detail) VALUES ('ddd'::text, '1'::integer, 'dd'::time...
+                                                             ^
+2018-07-20 15:03:02 ERROR  : ERROR:  syntax error at or near "from"
+LINE 5:             from manager_info m                    
+                    ^
+2018-07-24 11:46:03 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-07-24 11:48:39 ERROR  : ERROR:  function parsedatetime(unknown, unknown) does not exist
+LINE 1: ...Vxd5DOi', 'admin', 'admin', 'admin@admin.com', 1, PARSEDATET...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+2018-07-24 11:49:01 ERROR  : ERROR:  syntax error at or near "USER"
+LINE 1: INSERT INTO USER (ID, USERNAME, PASSWORD, FIRSTNAME, LASTNAM...
+                    ^
+2018-07-24 11:49:11 ERROR  : ERROR:  function parsedatetime(unknown, unknown) does not exist
+LINE 1: ...Vxd5DOi', 'admin', 'admin', 'admin@admin.com', 1, PARSEDATET...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+2018-07-24 11:50:27 ERROR  : ERROR:  column "enabled" is of type boolean but expression is of type integer
+LINE 1: ...LO/Vxd5DOi', 'admin', 'admin', 'admin@admin.com', 1, CURRENT...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+2018-07-24 11:51:49 ERROR  : ERROR:  column "lastpasswordresetdate" is of type timestamp without time zone but expression is of type time with time zone
+LINE 1: ...5DOi', 'admin', 'admin', 'admin@admin.com', TRUE, CURRENT_TI...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+2018-07-24 11:55:45 ERROR  : ERROR:  duplicate key value violates unique constraint "userinfo_pkey"
+DETAIL:  Key (id)=(1) already exists.
+2018-08-07 10:32:26 ERROR  : ERROR:  column "mamger_id" does not exist
+LINE 1: select * from did_info where did_type='1' and mamger_id is n...
+                                                      ^
+2018-10-24 15:35:09 ERROR  : ERROR:  column "spclocation" does not exist
+LINE 1: SELECT ts.oid, spcname, spclocation, spcoptions, pg_get_user...
+                                ^
+2018-10-24 15:44:45 ERROR  : ERROR:  invalid input syntax for integer: ""
+LINE 5:             '', '', '', '');
+                    ^
+2018-10-24 15:45:12 ERROR  : ERROR:  syntax error at or near ","
+LINE 5:             , , , );
+                    ^
+2018-10-24 15:46:51 ERROR  : ERROR:  value too long for type character varying(4)
+2018-10-24 15:46:51 ERROR  : ERROR:  value too long for type character varying(4)
+2018-10-24 16:09:42 ERROR  : ERROR:  value too long for type character varying(20)
+2018-10-24 16:09:47 ERROR  : ERROR:  value too long for type character varying(20)
+2018-10-24 16:09:56 ERROR  : ERROR:  null value in column "password" violates not-null constraint
